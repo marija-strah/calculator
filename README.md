@@ -1,6 +1,6 @@
 <h1>Gradient Calculator</h1>
 
-![alt text](https://github.com/marija-strah/calculator-simple/blob/main/calculator-main.jpg?raw=true)
+![alt text](https://github.com/marija-strah/calculator-simple/blob/main/calculator.jpg?raw=true)
 
 # Description
 - Straight-forward, user-friendly calculator app with a warm gradient background.
