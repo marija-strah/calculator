@@ -1,7 +1,5 @@
 <h1>Gradient Calculator</h1>
 
-![alt text](http://url/to/img.png)
-
 ![alt text](https://github.com/marija-strah/calculator-simple/blob/main/calculator-main.jpg?raw=true)
 
 # Description
