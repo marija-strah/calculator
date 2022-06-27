@@ -15,4 +15,4 @@
 - Dark theme
 
 # Demo
-https://marija-strah.github.io/calculator-simple/
+https://marija-strah.github.io/calculator/
