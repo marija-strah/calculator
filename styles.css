@@ -70,5 +70,6 @@ body {
     grid-template-rows: minmax(60px, auto) repeat(5, auto);
     font-size:smaller;
     background: linear-gradient(to right, #c44848, #c5ba23);
+    background-color: #faf7c8;
     }
     }
