@@ -12,6 +12,7 @@
 
 # Upcoming Features
 - Square root, exponentiation
+- Ability to use keyboard
 - Dark theme
 
 # Demo
